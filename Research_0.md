@@ -9,11 +9,11 @@ Modelamos cadenas de suministro, redes de infraestructura, o alianzas público-p
 Entre las herramientas que usamos se destacan la optimización bi-nivel en problemas cooperativos, competitivos o adversariales, y la optimización estocástica en un sentido amplio, integrada con analítica “predictiva” y orientada a proveer interactividad con el decisor.
 
 
-*Cyber-Physical-Social Systems*
+[*Cyber-Physical-Social Systems*](Research_CPSS.md)
 Es la línea en la que nos ocupamos de la complejidad de la toma de decisiones en sistemas que involucran componentes físicos, humanos y de información, que generalmente involucran múltiples actores de la sociedad, gran escala, largo plazo y, por ende, incertidumbre y riesgo. Sistemas de infraestructura, como transporte, energía, o información son ejemplos clave que demandan formas novedosas de abordar problemas de resiliencia y sostenibilidad. Se enmarca en risk-informed decision support, ensamblando modelos cuantitativos de forma sistémica para abordar problemas de decisión, particularmente, optimización estocástica y multi-nivel.
 
-*Supply Chain Analytics*
+[*Supply Chain Analytics*](Research_SCA.md)
 Es una línea en la que buscamos articular desarrollos de investigación con necesidades de la industria, buscando cerrar brechas para que herramientas pertinentes del estado del arte puedan adoptarse y generar beneficios concretos. Se enfoca en las cadenas de suministro, como esqueleto operativo de la industria, con énfasis en el sector agrícola como eje del desarrollo sostenible en Colombia y América Latina. No se limita a un tipo de técnica, pero combina el modelamiento de factores estocásticos y métodos híbridos de optimización que se integren con flujos de datos de las empresas para generar sistemas de apoyo a la decisión útiles.
 
-*Open Data Analytics*
+[*Open Data Analytics*](Research_ODA.md)
 Es una línea que responde al interés en hacer realmente accesibles al ciudadano los datos abiertos que, por su naturaleza, son de interés público. Colombia (y el mundo) cuenta con abundantes datos de entidades públicas sobre temas cruciales, pero existen retos para utilizarlos y mejorar la transparencia y la toma de decisiones (e.g., contratación pública). El objetivo de esta línea es desarrollar “tuberías” que faciliten el acceso a datos de interés, y proveer herramientas de análisis que estimulen conversaciones informadas, conectando las preguntas relevantes con la evidencia disponible.
