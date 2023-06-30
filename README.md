@@ -1,6 +1,6 @@
 # Camilo Gomez - Uniandes
 
 - [Research](Research_0.md)
-- [Research](attempt.md)
+- [attempt](attempt.md)
 - [Teaching](xx)
 - [Service](xx)
