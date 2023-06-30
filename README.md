@@ -1,4 +1,5 @@
-# DA_Lab
-Decision Analytics Lab
+# Camilo Gomez - Uniandes
 
 - [Research](Research_0.md)
+- [Teaching](xx)
+- [Service](xx)
